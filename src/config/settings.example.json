@@ -1,0 +1,5 @@
+{
+  "output_format": "json",
+  "scrape_interval": 300,
+  "max_companies": 1000
+}

